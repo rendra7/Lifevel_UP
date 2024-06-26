@@ -14,11 +14,8 @@ email : rendra.prasetyo@binus.ac.id
 
 
 # How To use :
-click this [ ] for download the apk installation
-or
-Use the repository file and open using flutter (Vscode) & Andorid SDK
+download apk file
 
 # Youtube Link Video Demo aplication :
+https://drive.google.com/file/d/1lNLVreSChug9Iqm3nTo9F1IW4wLaOnj8/view?usp=sharing
 
-
-# another project :
