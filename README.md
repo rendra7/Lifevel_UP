@@ -1,3 +1,9 @@
+# Informasi
+
+Git saya error jadi file code & apk nya ada di google drive berikut :
+https://drive.google.com/drive/folders/12T2rks9qRRCPku4GInmqJZZDDSQU8csg?usp=drive_link  
+
+
 # Lifevel-Up
 Binus University - Computer Science
 
